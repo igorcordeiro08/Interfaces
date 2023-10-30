@@ -1,0 +1,14 @@
+C:\Workspace\C#\POO2\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.exe
+C:\Workspace\C#\POO2\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Workspace\C#\POO2\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+C:\Workspace\C#\POO2\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Workspace\C#\POO2\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+C:\Workspace\C#\POO2\Interfaces\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
